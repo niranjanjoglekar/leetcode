@@ -15,4 +15,5 @@
 | 27   |Remove Element|https://leetcode.com/problems/remove-element/|
 | 28   |Implement strStr()|https://leetcode.com/problems/implement-strstr/|
 | 35   |Search Insert Position|https://leetcode.com/problems/search-insert-position/|
+| 217  |Contains Duplicate|https://leetcode.com/problems/contains-duplicate/|
 | 1909 |Remove One Element to Make the Array Strictly Increasing|https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/|
