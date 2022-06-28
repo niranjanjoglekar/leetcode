@@ -21,8 +21,9 @@ These are not the best solution problems but the easier one to understand.
 | 1909 |Remove One Element to Make the Array Strictly Increasing|https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/|
 
 ### Tree
-| #    | Title | Link |
-|------| ----- | ---- |
-| 94   |Binary Tree Inorder Traversal|https://leetcode.com/problems/binary-tree-inorder-traversal/|
-| 101  |Symmetric Tree|https://leetcode.com/problems/symmetric-tree/|
-| 104  |Maximum Depth of Binary Tree|https://leetcode.com/problems/maximum-depth-of-binary-tree/|
+| #   | Title | Link |
+|-----| ----- | ---- |
+| 94  |Binary Tree Inorder Traversal|https://leetcode.com/problems/binary-tree-inorder-traversal/|
+| 101 |Symmetric Tree|https://leetcode.com/problems/symmetric-tree/|
+| 104 |Maximum Depth of Binary Tree|https://leetcode.com/problems/maximum-depth-of-binary-tree/|
+| 226 |Invert Binary Tree|https://leetcode.com/problems/invert-binary-tree/|
