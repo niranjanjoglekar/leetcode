@@ -2,6 +2,8 @@
 
 These are not the best solution problems but the easier one to understand.
 
+### Arrays,Strings
+
 | #    | Title | Link |
 |------| ----- | ---- |
 | 1    |Two Sum|https://leetcode.com/problems/two-sum/|
@@ -14,4 +16,13 @@ These are not the best solution problems but the easier one to understand.
 | 28   |Implement strStr()|https://leetcode.com/problems/implement-strstr/|
 | 35   |Search Insert Position|https://leetcode.com/problems/search-insert-position/|
 | 217  |Contains Duplicate|https://leetcode.com/problems/contains-duplicate/|
+| 242 |Valid Anagram|https://leetcode.com/problems/valid-anagram/|
+| 338  |Counting Bits|https://leetcode.com/problems/counting-bits/|
 | 1909 |Remove One Element to Make the Array Strictly Increasing|https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/|
+
+### Tree
+| #    | Title | Link |
+|------| ----- | ---- |
+| 94   |Binary Tree Inorder Traversal|https://leetcode.com/problems/binary-tree-inorder-traversal/|
+| 101  |Symmetric Tree|https://leetcode.com/problems/symmetric-tree/|
+| 104  |Maximum Depth of Binary Tree|https://leetcode.com/problems/maximum-depth-of-binary-tree/|
