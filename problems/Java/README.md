@@ -20,6 +20,11 @@ These are not the best solution problems but the easier one to understand.
 | 338  | Counting Bits                                            | https://leetcode.com/problems/counting-bits/                                            |
 | 1909 | Remove One Element to Make the Array Strictly Increasing | https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/ |
 
+### Binary Search
+| #    | Title                                                    | Link                                         |
+|------|----------------------------------------------------------|----------------------------------------------|
+| 704  | Binary Search | https://leetcode.com/problems/binary-search/ |
+
 ### LinkedList
 | #   | Title                  | Link                                                  |
 |-----|------------------------|-------------------------------------------------------|
