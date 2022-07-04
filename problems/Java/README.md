@@ -10,7 +10,6 @@ These are not the best solution problems but the easier one to understand.
 | 3.1  | Next Permutation                                         | https://leetcode.com/problems/next-permutation/                                         |
 | 7    | Reverse Integer                                          | https://leetcode.com/problems/reverse-integer/                                          |
 | 9    | Palindrome Number                                        | https://leetcode.com/problems/palindrome-number/                                        |
-| 20   | Valid Parentheses                                        | https://leetcode.com/problems/valid-parentheses/                                        |
 | 26   | Remove Duplicates from Sorted Array                      | https://leetcode.com/problems/remove-duplicates-from-sorted-array/                      |
 | 27   | Remove Element                                           | https://leetcode.com/problems/remove-element/                                           |
 | 28   | Implement strStr()                                       | https://leetcode.com/problems/implement-strstr/                                         |
@@ -46,6 +45,11 @@ These are not the best solution problems but the easier one to understand.
 
 
 ### Sliding Window
-| #   | Title                           | Link                                                                          |
-|-----|---------------------------------|-------------------------------------------------------------------------------|
- | 3   | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters  |
+| # | Title                           | Link                                                                          |
+|---|---------------------------------|-------------------------------------------------------------------------------|
+ | 3 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters  |
+
+### Stack
+| #   | Title | Link                                            |
+|-----|-------|-------------------------------------------------|
+| 20  | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/|
