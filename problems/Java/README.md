@@ -58,3 +58,8 @@ These are not the best solution problems but the easier one to understand.
 | #   | Title             | Link                                             |
 |-----|-------------------|--------------------------------------------------|
  | 200 | Number of Islands | https://leetcode.com/problems/number-of-islands  |
+
+### Bit Manipulation
+| #   | Title         | Link                                         |
+|-----|---------------|----------------------------------------------|
+| 136 | Single Number | https://leetcode.com/problems/single-number/ |
