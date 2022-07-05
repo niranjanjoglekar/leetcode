@@ -53,3 +53,8 @@ These are not the best solution problems but the easier one to understand.
 | #   | Title | Link                                            |
 |-----|-------|-------------------------------------------------|
 | 20  | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/|
+
+### Graph
+| #   | Title             | Link                                             |
+|-----|-------------------|--------------------------------------------------|
+ | 200 | Number of Islands | https://leetcode.com/problems/number-of-islands  |
