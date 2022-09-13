@@ -24,6 +24,7 @@ These are not the best solution problems but the easier one to understand.
 |-----|---------------|----------------------------------------------|
 | 46  | Permutations  | https://leetcode.com/problems/permutations/  |
 
+
 ### Binary Search
 | #    | Title                                                    | Link                                         |
 |------|----------------------------------------------------------|----------------------------------------------|
