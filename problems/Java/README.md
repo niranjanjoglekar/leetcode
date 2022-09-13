@@ -19,6 +19,11 @@ These are not the best solution problems but the easier one to understand.
 | 338  | Counting Bits                                            | https://leetcode.com/problems/counting-bits/                                            |
 | 1909 | Remove One Element to Make the Array Strictly Increasing | https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/ |
 
+### Recursion
+| #   | Title         | Link                                         |
+|-----|---------------|----------------------------------------------|
+| 46  | Permutations  | https://leetcode.com/problems/permutations/  |
+
 ### Binary Search
 | #    | Title                                                    | Link                                         |
 |------|----------------------------------------------------------|----------------------------------------------|
