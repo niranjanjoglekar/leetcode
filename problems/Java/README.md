@@ -19,16 +19,17 @@ These are not the best solution problems but the easier one to understand.
 | 338  | Counting Bits                                            | https://leetcode.com/problems/counting-bits/                                            |
 | 1909 | Remove One Element to Make the Array Strictly Increasing | https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/ |
 
-### Recursion
-| #   | Title         | Link                                         |
-|-----|---------------|----------------------------------------------|
-| 46  | Permutations  | https://leetcode.com/problems/permutations/  |
+### Recursion/Backtracking
+| #   | Title           | Link                                            |
+|-----|-----------------|-------------------------------------------------|
+| 46  | Permutations    | https://leetcode.com/problems/permutations/     |
+| 47  | Permutations ii | https://leetcode.com/problems/permutations-ii/  |
 
 
 ### Binary Search
-| #    | Title                                                    | Link                                         |
-|------|----------------------------------------------------------|----------------------------------------------|
-| 704  | Binary Search | https://leetcode.com/problems/binary-search/ |
+| #    | Title                                                     | Link                                          |
+|------|-----------------------------------------------------------|-----------------------------------------------|
+| 704  | Binary Search                                             | https://leetcode.com/problems/binary-search/  |
 
 ### LinkedList
 | #   | Title                  | Link                                                  |
@@ -51,14 +52,14 @@ These are not the best solution problems but the easier one to understand.
 
 
 ### Sliding Window
-| # | Title                           | Link                                                                          |
-|---|---------------------------------|-------------------------------------------------------------------------------|
+| # | Title                                          | Link                                                                          |
+|---|------------------------------------------------|-------------------------------------------------------------------------------|
  | 3 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters  |
 
 ### Stack
-| #   | Title | Link                                            |
-|-----|-------|-------------------------------------------------|
-| 20  | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/|
+| #   | Title             | Link                                               |
+|-----|-------------------|----------------------------------------------------|
+| 20  | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/   |
 
 ### Graph
 | #   | Title             | Link                                             |
