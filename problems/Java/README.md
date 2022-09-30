@@ -20,10 +20,17 @@ These are not the best solution problems but the easier one to understand.
 | 1909 | Remove One Element to Make the Array Strictly Increasing | https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/ |
 
 ### Recursion/Backtracking
-| #   | Title           | Link                                            |
-|-----|-----------------|-------------------------------------------------|
-| 46  | Permutations    | https://leetcode.com/problems/permutations/     |
-| 47  | Permutations ii | https://leetcode.com/problems/permutations-ii/  |
+| #    | Title              | Link                                            |
+|------|--------------------|-------------------------------------------------|
+| 46   | Permutations       | https://leetcode.com/problems/permutations/     |
+| 47   | Permutations ii    | https://leetcode.com/problems/permutations-ii/  |
+ | 50   | Pow(x, n)          | https://leetcode.com/problems/powx-n/           | 
+| 78   | Subsets            | https://leetcode.com/problems/subsets/          |
+| 90   | Subsets II         | https://leetcode.com/problems/subsets-ii/       |
+| 125  | Valid Palindrome   | https://leetcode.com/problems/valid-palindrome/ |
+| 509  | Fibonacci Number   | https://leetcode.com/problems/fibonacci-number/ |
+
+ 
 
 
 ### Binary Search
