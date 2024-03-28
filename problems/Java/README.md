@@ -20,30 +20,29 @@ These are not the best solution problems but the easier one to understand.
 | 1909 | Remove One Element to Make the Array Strictly Increasing | https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/ |
 
 ### Recursion/Backtracking
-| #    | Title              | Link                                            |
-|------|--------------------|-------------------------------------------------|
-| 46   | Permutations       | https://leetcode.com/problems/permutations/     |
-| 47   | Permutations ii    | https://leetcode.com/problems/permutations-ii/  |
- | 50   | Pow(x, n)          | https://leetcode.com/problems/powx-n/           | 
-| 78   | Subsets            | https://leetcode.com/problems/subsets/          |
-| 90   | Subsets II         | https://leetcode.com/problems/subsets-ii/       |
-| 125  | Valid Palindrome   | https://leetcode.com/problems/valid-palindrome/ |
-| 509  | Fibonacci Number   | https://leetcode.com/problems/fibonacci-number/ |
+| #    | Title               | Solution                                                                                                          | Link                                            |
+|------|---------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| 46   | Permutations        | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/recursion/Permutations.java    | https://leetcode.com/problems/permutations/     |
+| 47   | Permutations ii     | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/recursion/PermutationsII.java  | https://leetcode.com/problems/permutations-ii/  |
+ | 50   | Pow(x, n)           | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/recursion/Power.java           | https://leetcode.com/problems/powx-n/           | 
+| 78   | Subsets             | [https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/recursion/SubSets.java        | https://leetcode.com/problems/subsets/]         |
+| 90   | Subsets II          | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/recursion/SubSetsII.java       | https://leetcode.com/problems/subsets-ii/       |
+| 125  | Valid Palindrome    | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/recursion/ValidPalindrome.java | https://leetcode.com/problems/valid-palindrome/ |
+| 509  | Fibonacci Number    | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/recursion/FibonacciNumber.java | https://leetcode.com/problems/fibonacci-number/ |
 
  
 
 
 ### Binary Search
-| #    | Title                                                     | Link                                          |
-|------|-----------------------------------------------------------|-----------------------------------------------|
-| 704  | Binary Search                                             | https://leetcode.com/problems/binary-search/  |
+| #    | Title                                                     | Solution                                                                                                          | Link                                         |
+|------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| 704  | Binary Search                                             | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/binarySearch/BinarySearch.java | https://leetcode.com/problems/binary-search/ |
 
 ### LinkedList
-| #   | Title                  | Link                                                  |
-|-----|------------------------|-------------------------------------------------------|
-| 21  | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/ |
-| 141 | Linked List Cycle      | https://leetcode.com/problems/linked-list-cycle/      |
-| 206 | Reverse Linked List    | https://leetcode.com/problems/reverse-linked-list/    |
+| #   | Title                  | Solution                                                                                                               | Link                                                  |
+|-----|------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| 21  | Merge Two Sorted Lists | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/linkedList/MergeTwoSortedLists.java | https://leetcode.com/problems/merge-two-sorted-lists/ |
+| 141 | Linked List Cycle      | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/linkedList/LinkedListCycle.java     | https://leetcode.com/problems/linked-list-cycle/      |
 
 
 ### Tree
@@ -59,21 +58,21 @@ These are not the best solution problems but the easier one to understand.
 
 
 ### Sliding Window
-| # | Title                                          | Link                                                                          |
-|---|------------------------------------------------|-------------------------------------------------------------------------------|
- | 3 | Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters  |
+| # | Title                                           | Solution                                                                                                                                         | Link                                                                         |
+|---|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+ | 3 | Longest Substring Without Repeating Characters  | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/slidingWindow/LongestSubstringWithoutRepeatingCharacters.java | https://leetcode.com/problems/longest-substring-without-repeating-characters |
 
 ### Stack
-| #   | Title             | Link                                               |
-|-----|-------------------|----------------------------------------------------|
-| 20  | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/   |
+| #   | Title             | Solution                                                                                                       | Link                                              |
+|-----|-------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| 20  | Valid Parentheses | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/stack/ValidParentheses.java | https://leetcode.com/problems/valid-parentheses/  |
 
 ### Graph
-| #   | Title             | Link                                             |
-|-----|-------------------|--------------------------------------------------|
- | 200 | Number of Islands | https://leetcode.com/problems/number-of-islands  |
+| #   | Title             | Solution                                                                                                      | Link                                            |
+|-----|-------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+ | 200 | Number of Islands | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/graph/NumberOfIslands.java | https://leetcode.com/problems/number-of-islands |
 
 ### Bit Manipulation
-| #   | Title         | Link                                         |
-|-----|---------------|----------------------------------------------|
-| 136 | Single Number | https://leetcode.com/problems/single-number/ |
+| #   | Title         | Solution                                                                                                             | Link                                           |
+|-----|---------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| 136 | Single Number | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/bitManipulation/SingleNumber.java | https://leetcode.com/problems/single-number/   |

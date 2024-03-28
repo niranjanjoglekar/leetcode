@@ -13,4 +13,48 @@
     <maven.compiler.target>8</maven.compiler.target>
   </properties>
 
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>com.diffplug.spotless</groupId>
+        <artifactId>spotless-maven-plugin</artifactId>
+        <executions>
+          <execution>
+            <id>format</id>
+            <phase>process-sources</phase>
+            <goals>
+              <goal>check</goal>
+              <goal>apply</goal>
+            </goals>
+          </execution>
+        </executions>
+        <configuration>
+          <java>
+            <includes>
+              <include>src/main/java/**/*.java</include> <!-- Check application code -->
+              <include>src/test/java/**/*.java</include> <!-- Check application tests code -->
+            </includes>
+            <googleJavaFormat>
+              <version>1.15.0</version>
+              <style>GOOGLE</style>
+            </googleJavaFormat>
+          </java>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>2.8.5</version>
+    </dependency>
+    <dependency>
+      <groupId>com.oracle.oci.limits</groupId>
+      <artifactId>limits-dp-java-client</artifactId>
+      <version>1.9</version>
+    </dependency>
+  </dependencies>
+
 </project>
