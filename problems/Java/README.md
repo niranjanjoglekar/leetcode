@@ -60,9 +60,10 @@ These are not the best solution problems but the easier one to understand.
 
 
 ### Sliding Window
-| # | Title                                           | Solution                                                                                                                                         | Link                                                                         |
-|---|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
- | 3 | Longest Substring Without Repeating Characters  | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/slidingWindow/LongestSubstringWithoutRepeatingCharacters.java | https://leetcode.com/problems/longest-substring-without-repeating-characters |
+| # | Title                                          | Solution                                                                                                                                         | Link                                                                         |
+|---|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 0 | Kadane’s Algorithm                             | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/slidingWindow/KadaneAlgo.java                                 |                                                                              |
+| 3 | Longest Substring Without Repeating Characters | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/slidingWindow/LongestSubstringWithoutRepeatingCharacters.java | https://leetcode.com/problems/longest-substring-without-repeating-characters |
 
 ### Stack
 | #   | Title             | Solution                                                                                                       | Link                                              |
