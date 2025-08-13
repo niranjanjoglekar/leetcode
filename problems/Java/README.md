@@ -39,12 +39,13 @@ These are not the best solution problems but the easier one to understand.
 | 704  | Binary Search                                             | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/binarySearch/BinarySearch.java | https://leetcode.com/problems/binary-search/ |
 
 ### LinkedList
-| #   | Title                      | Solution                                                                                                               | Link                                                    |
-|-----|----------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| 21  | Merge Two Sorted Lists     | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/linkedList/MergeTwoSortedLists.java | https://leetcode.com/problems/merge-two-sorted-lists/   |
-| 141 | Linked List Cycle          | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/linkedList/LinkedListCycle.java     | https://leetcode.com/problems/linked-list-cycle/        |
-| 142 | Linked List Cycle 2        | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/linkedList/LinkedListCycle2.java    | https://leetcode.com/problems/linked-list-cycle-ii/     |
-| 876 | Middle of the Linked List  | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/linkedList/MiddleOfLinkedList.java  | https://leetcode.com/problems/middle-of-the-linked-list |
+| #   | Title                     | Solution                                                                                                                | Link                                                    |
+|-----|---------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| 21  | Merge Two Sorted Lists    | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/linkedList/MergeTwoSortedLists.java  | https://leetcode.com/problems/merge-two-sorted-lists/   |
+| 141 | Linked List Cycle         | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/linkedList/LinkedListCycle.java      | https://leetcode.com/problems/linked-list-cycle/        |
+| 142 | Linked List Cycle 2       | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/linkedList/LinkedListCycle2.java     | https://leetcode.com/problems/linked-list-cycle-ii/     |
+| 206 | Reverse Linked List       | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/linkedList/ReverseLinkedList.java    | https://leetcode.com/problems/reverse-linked-list       |
+| 876 | Middle of the Linked List | https://github.com/niranjanjoglekar/leetcode/blob/main/problems/Java/src/main/java/linkedList/MiddleOfLinkedList.java   | https://leetcode.com/problems/middle-of-the-linked-list |
 
 
 ### Tree
